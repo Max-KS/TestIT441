@@ -13,10 +13,10 @@
                 <?php include "show_room.php"; ?>
             </td>
             <td width="190" bgcolor="#FFFF66"><ul>
-				<li><a href="home.php">ชื่อ</li>
-				<li><a href="room.php">ที่อยู่</li>
-				<li><a herf="guest.php">เบอร์โทร</li>
-				<li><a href="contact.php">อีเมลล์</li>
+				<li><a href="home.php">ชื่อ นายกฤษฎา สินไชย</li>
+				<li><a href="room.php">ที่อยู่ สุราษฎร์ธานี</li>
+				<li><a herf="guest.php">เบอร์โทร 00000</li>
+				<li><a href="contact.php">อีเมลล์ 0000@gmail.com</li>
 				</ul><p>
 				<?php include "login_form.php";?>
 			</td>
